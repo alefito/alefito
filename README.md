@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alefito
 - 👀 I’m interested in create software
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on a computer os
+- 🌱 I’m currently learning swift
 
 <!---
 alefito/alefito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
