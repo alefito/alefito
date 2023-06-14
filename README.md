@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @alefito
-- 👀 I’m interested in create software
-- 🌱 I’m currently learning swift
+Hi, i am Alef, i am junior developer, i know swift, java, c++, python, html, css "&" js.
 
-<!---
-alefito/alefito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am taking a ciber segurity course.
+
+I am taking a lot of courses in new programing lenguajes.
+
